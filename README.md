@@ -13,7 +13,7 @@ Bu proje, Diyarbakır Halk Lokantası'nın menüsünden yemek ve içecek sipari�
 Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. C# dilini destekleyen bir IDE veya derleyici kullanarak projeyi açın.
-2. `Program.cs` dosyasını çalıştırarak uygulamayı başlatın.
+2. `Main.cs` dosyasını çalıştırarak uygulamayı başlatın.
 3. Menü seçeneklerinden birini seçmek için belirtilen rakamları tuşlayın.
 4. Seçiminize göre daha fazla seçenek görüntülenecek.
 
