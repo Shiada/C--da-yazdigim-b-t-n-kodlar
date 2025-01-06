@@ -22,7 +22,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 2. **Kahveler**: Türk Kahvesi, Filtre Kahve, Latte
 3. **Salatalar**: Çoban Salata, Akdeniz Salatası, Karnıbahar Salatası
 
-## Teknolojiler
+## Kullanılan diller
 
 - C#
 
